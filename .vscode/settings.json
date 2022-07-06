@@ -1,0 +1,10 @@
+{
+    "svn.ignoreMissingSvnWarning": true,
+    "cSpell.words": [
+        "arange",
+        "matplotlib",
+        "pyplot",
+        "xlabel",
+        "ylabel"
+    ]
+}
